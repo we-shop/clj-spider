@@ -10,6 +10,9 @@
                  [aleph "0.4.3"]
                  [ring/ring-core "1.6.1"]
 
+                 [clj-http "3.7.0"]
+                 [org.apache.httpcomponents/httpclient "4.5.3"]
+
                  [org.postgresql/postgresql "42.1.4"]
                  [org.clojure/java.jdbc "0.7.0"]
 
