@@ -10,6 +10,9 @@
                  [aleph "0.4.3"]
                  [ring/ring-core "1.6.1"]
 
+                 [org.postgresql/postgresql "42.1.4"]
+                 [org.clojure/java.jdbc "0.7.0"]
+
                  [jarohen/wiring "0.0.1-alpha2"]]
 
   :exclusions [org.clojure/clojurescript]
